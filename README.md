@@ -45,13 +45,4 @@ Dengan menu ini kita dapat menghapus data yang telah kita tambahkan pada directo
 
 ![Screenshot (50)](https://user-images.githubusercontent.com/57034810/70376338-9b265680-193a-11ea-8992-126e62197161.png)
 
-
-
-
-
-
-
-5. Menu Hapus
-
-Dengan menu ini kita dapat menghapus data yang telah kita tambahkan pada directory. Kita cukup menginputkan huruf 'h'. Selanjutnya kita diminta menginputkan nama, ketika nama terdaftar sebagai Keys, maka otomatis data tersebut akan di hapus dari directory.
-
+terima kasih
